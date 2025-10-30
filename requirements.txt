@@ -1,0 +1,6 @@
+rich
+selenium
+webdriver-manager
+psutil
+arabic-reshaper
+python-bidi
